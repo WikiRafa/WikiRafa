@@ -2,15 +2,9 @@
 WikiRafa oficial Web
 
 
-Que es la WikiRafa...? 
-
-La verdadera pregunta es... que no es la WikiRafa...?
-
-La WikiRafa lo es todo, pero si tuviésemos que reducirla a un solo concepto diríamos que la WikiRafa es la respuesta a la verdad.
-
-
-WikiRafa es la realidad dentro de la verdad.
+El proyecto WikiRafa consiste en crear una Biografía personal de Rafael Sáez Prado, dado a que la famosa pagina Wikipedia no permite crear una entrada sobre nuestro amado profesor Rafa, nosotros sus estudiantes y desarrolladores de este sitio web tras decidir que de ninguna manera dejaríamos este proyecto atrás tomamos la decisión de crear mediante la herramienta Google Sites la WikiRafa. 
 ## Redes Sociales
+
 #### Instagram
 https://www.instagram.com/wikirafa_oficial/
 
