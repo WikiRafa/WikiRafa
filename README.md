@@ -1,5 +1,6 @@
 # WikiRafa
-WikiRafa oficial Web
+Proyect WikiRafa Oficial Site ©
+2022-2024
 
 ![WikiRafa](https://github.com/xoanxc/WikiRafa/blob/main/assets/WikiRedonded.png)
 
