@@ -4,7 +4,11 @@ Proyect WikiRafa Oficial Site ©
 
 ![WikiRafa](https://github.com/xoanxc/WikiRafa/blob/main/assets/WikiRedonded.png)
 
-El proyecto WikiRafa consiste en crear una Biografía personal de Rafael Sáez Prado, dado a que la famosa pagina Wikipedia no permite crear una entrada sobre nuestro amado profesor Rafa, nosotros sus estudiantes y desarrolladores de este sitio web tras decidir que de ninguna manera dejaríamos este proyecto atrás tomamos la decisión de crear mediante la herramienta Google Sites la WikiRafa. 
+El proyecto WikiRafa consiste en crear una Biografía personal de Rafael Sáez Prado, en este GitHub encontrareis todo lo utilizado para su creación y proxima adaptación a HTML5. 
+
+#Port HTML5
+Desarrollo estimado para finales de 2024/principios de 2025.
+
 ## Redes Sociales
 
 #### Instagram
