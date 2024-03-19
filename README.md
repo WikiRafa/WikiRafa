@@ -7,7 +7,7 @@ Proyect WikiRafa Oficial Site ©
 El proyecto WikiRafa consiste en crear una Biografía personal de Rafael Sáez Prado, en este GitHub encontrareis todo lo utilizado para su creación y proxima adaptación a HTML5. 
 
 # Port HTML5 (REMAKE)
-Desarrollo estimado para finales y principios de 2024/2025.
+Desarrollo estimado para 2025.
 
 ## Redes Sociales
 
