@@ -20,3 +20,16 @@ https://www.facebook.com/people/Wiki-Rafa/pfbid02o8FshoYLqVPQCoAVxkY8UmKAF1DCxgh
 
 #### YouTube
 https://www.youtube.com/channel/UCWBqkHqgZz8y8BioZzykbyA
+
+# Dominios - En espera 2024
+
+### Dominio
+#### WikiRafa.com
+https://wikirafa.com
+
+### SubDominios
+##### Rafarix.WikiRafa.com
+https://rafarix.wikirafa.com
+
+#### Remake.WikiRafa.com
+https://remake.wikirafa.com
