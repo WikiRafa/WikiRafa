@@ -25,7 +25,7 @@ https://www.youtube.com/channel/UCWBqkHqgZz8y8BioZzykbyA
 
 ### Dominio
 #### WikiRafa.com
-https://wikirafa.com
+https://www.wikirafa.com
 
 ### SubDominios
 ##### Rafarix.WikiRafa.com
