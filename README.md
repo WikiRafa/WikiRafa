@@ -2,7 +2,7 @@
 Project WikiRafa Oficial Site ©
 2022-2024
 
-![WikiRafa](https://github.com/xoanxc/WikiRafa/blob/main/assets/WikiRedonded.png](https://github.com/WikiRafa/.github/blob/7d5353aae5b577ebcaca8758a19746adff8eb1ba/assets/WikiRedonded.png)
+![WikiRafa]([https://github.com/xoanxc/WikiRafa/blob/main/assets/WikiRedonded.png](https://github.com/WikiRafa/.github/blob/7d5353aae5b577ebcaca8758a19746adff8eb1ba/assets/WikiRedonded.png))
 
 El proyecto WikiRafa consiste en crear una Biografía personal de Rafael Sáez Prado, en este GitHub encontrareis todo lo utilizado para su creación y proxima adaptación a HTML5. 
 
