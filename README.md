@@ -20,13 +20,3 @@ https://www.facebook.com/people/Wiki-Rafa/pfbid02o8FshoYLqVPQCoAVxkY8UmKAF1DCxgh
 
 #### YouTube
 https://www.youtube.com/channel/UCWBqkHqgZz8y8BioZzykbyA
-
-# Dominios
-
-### Dominio
-#### wikirafa.com
-https://www.wikirafa.com
-
-### SubDominios
-##### rafarix.WikiRafa.com
-https://rafarix.wikirafa.com
